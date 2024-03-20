@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "Darkphantom",
       "repo": "https://github.com/RjTangpos/Darkphantom_kernel_realme_sm6150",
-      "branch": "thirteen",
+      "branch": "latest",
       "device": "RMX1921",
-      "defconfig": "polaris_defconfig"
+      "defconfig": "Kconfig_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
