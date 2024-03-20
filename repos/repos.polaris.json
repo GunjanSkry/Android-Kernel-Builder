@@ -7,7 +7,7 @@
       "device": "RMX1921",
       "defconfig": "X2_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://gitlab.com/jjpprrrr/prelude-clang",
