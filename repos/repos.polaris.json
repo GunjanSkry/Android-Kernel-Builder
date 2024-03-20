@@ -5,7 +5,7 @@
       "repo": "https://github.com/RjTangpos/Darkphantom_kernel_realme_sm6150",
       "branch": "latest",
       "device": "RMX1921",
-      "defconfig": "Kconfig_defconfig"
+      "defconfig": "X2_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
