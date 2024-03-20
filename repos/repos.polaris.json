@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "EtudeKernel-KSU",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris",
+      "name": "Darkphantom",
+      "repo": "https://github.com/RjTangpos/Darkphantom_kernel_realme_sm6150",
       "branch": "thirteen",
-      "device": "polaris",
+      "device": "RMX1921",
       "defconfig": "polaris_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://gitlab.com/jjpprrrr/prelude-clang",
